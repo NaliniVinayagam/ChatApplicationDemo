@@ -10,6 +10,7 @@
     tools:context="com.example.chat.chatappdemo.MainActivity">
 
     <TextView
+        android:id="@+id/txt_view"
         android:text="Hi.. Dis is a sample chat app on Github for Forking edited for THIRD commit edited for test"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -18,4 +19,12 @@
         android:gravity="center"
         />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:padding="15dp"
+        android:layout_below="@+id/txt_view"
+        android:layout_centerHorizontal="true"
+        />
 </RelativeLayout>
