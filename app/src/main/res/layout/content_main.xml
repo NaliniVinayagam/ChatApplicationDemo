@@ -10,7 +10,7 @@
     tools:context="com.example.chat.chatappdemo.MainActivity">
 
     <TextView
-        android:text="Hi.. Dis is a sample chat app on Github for Forking edited for THIRD commit"
+        android:text="Hi.. Dis is a sample chat app Cloned from 2nd account"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
